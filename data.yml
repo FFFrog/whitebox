@@ -1047,3 +1047,10 @@ users:
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
 
+
+- name: 'Pengbo Meng'
+  gitee_id: 'mpb159753'
+  github_id: 'mpb159753'
+  repos:
+  - https://github.com/opensourceways/opengauss_infra
+
