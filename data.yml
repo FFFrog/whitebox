@@ -631,7 +631,6 @@ users:
   - "Shuqiao Li"
   repos:
   - https://gitee.com/kunpengcompute/om-data
-  - https://github.com/opensourceways/whitebox
   - https://gitee.com/ascend/MindSeed
   - https://gitee.com/modelx/MindSeed
   - https://github.com/openmerlin/merlin
@@ -648,6 +647,7 @@ users:
   - https://github.com/openmerlin/space-moderation-proxy
   - https://github.com/openmerlin/flexcompute-sdk
   - https://github.com/openmerlin/flexcompute-server
+  - https://gitee.com/openeuler/presentations
 
 - name: 'Shuai Wang'
   gitee_id: 'xiaozhunren'
