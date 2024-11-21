@@ -1099,3 +1099,16 @@ users:
   repos:
   - https://github.com/opensourceways/opengauss_infra
 
+- name: 'Shanshan Shen'
+  gitee_id: 'shenshanshan0918'
+  github_id: 'shen-shanshan'
+  repos:
+  - https://gitee.com/kunpengcompute/om-data
+  - https://gitee.com/ascend/cann-ops-adv
+  - https://github.com/shen-shanshan/cs-self-learning
+  - https://github.com/shen-shanshan/shen-shanshan.github.io
+  - https://github.com/ggerganov/llama.cpp
+  - https://github.com/sgl-project/sglang
+  - https://github.com/2noise/ChatTTS
+  - https://github.com/Ascend/docs
+  - https://github.com/shen-shanshan/lscap
