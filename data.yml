@@ -961,6 +961,18 @@ users:
   - https://github.com/mindspore-lab/mindocr
   - https://github.com/tinyms-ai/tinyms
 
+- name: "Nengjun Ma"
+  gitee_id: "pony-leo"
+  github_id: "leo-pony"
+  repos:
+    - https://github.com/ggerganov/llama.cpp
+    - https://github.com/microsoft/onnxruntime
+    - https://github.com/huggingface/accelerate
+    - https://github.com/microsoft/DeepSpeed
+    - https://github.com/hipudding/llama.cpp
+    - https://github.com/zhongTao99/ollama
+    - https://github.com/ollama/ollama
+    
 - name: 'Chao Feng'
   gitee_id: 'ibforu'
   github_id: 'ibfru'
