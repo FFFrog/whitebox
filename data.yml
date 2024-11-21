@@ -889,9 +889,9 @@ users:
   gitee_id: 'bachelor-dou'
   github_id: 'bachelor-dou'
   repos:
-  - https://github.com/microsoft/onnxruntime
-  - https://github.com/ggerganov/llama.cpp
-  - https://github.com/bachelor-dou/learning-notes
+    - https://github.com/microsoft/onnxruntime
+    - https://github.com/ggerganov/llama.cpp
+    - https://github.com/bachelor-dou/learning-notes
 
 - name: "Ming Cui"
   gitee_id: "mccpr"
