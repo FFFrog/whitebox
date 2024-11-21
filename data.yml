@@ -885,6 +885,14 @@ users:
     - https://gitee.com/modelers/flexcompute-server
     - https://gitee.com/modelers/flexcompute-sdk
 
+- name: 'Xinpeng Dou'
+  gitee_id: 'bachelor-dou'
+  github_id: 'bachelor-dou'
+  repos:
+  - https://github.com/microsoft/onnxruntime
+  - https://github.com/ggerganov/llama.cpp
+  - https://github.com/bachelor-dou/learning-notes
+
 - name: "Ming Cui"
   gitee_id: "mccpr"
   github_id: "mccpr"
